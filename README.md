@@ -15,5 +15,6 @@ You should work with Android Studio IDE and apply to our basic app template. We'
 Advices:
 
   1. use Android Open Source Code style (https://source.android.com/source/code-style.html),
-  2. start with creating your develop branch,
-  3. try to write unit tests.
+  2. read official data binding guide (https://developer.android.com/tools/data-binding/guide.html),
+  3. start with creating your develop branch,
+  4. try to write unit tests.
