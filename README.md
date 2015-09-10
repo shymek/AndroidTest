@@ -4,7 +4,7 @@ This is Machine Insight IT test assignment. It was created in order to check you
 
 Your task:
   
-  1. clone this repo,
+  1. fork this repo,
   2. read api documentation (included in the project's sources in pdf format),
   3. implement registration process,
   4. implement login process,
